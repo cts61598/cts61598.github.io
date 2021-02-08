@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  /* background-image: url("https://cdn.britannica.com/00/188300-050-972ACBFB/Dolomites-Italian-Alps.jpg");
+  background-blend-mode: color;
+  background-color: rgba(0, 0, 0, 0.4) !important;
+
+  height: 60%; 
+  width: 80%;
+  top: 0;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: fixed; */
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  background: var(--color-base);
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://cdn.britannica.com/00/188300-050-972ACBFB/Dolomites-Italian-Alps.jpg");
+}
